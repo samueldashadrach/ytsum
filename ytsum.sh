@@ -32,7 +32,7 @@ TEXT=$(awk '
 TEXT=${TEXT:0:$MAX_CHARS}
 
 # 3) wrap in “summarise this” + triple back-ticks
-REQUEST_TEXT=$'summarise this\n```\n'"$TEXT"$'\n```'
+REQUEST_TEXT=$'summarise this in approx 1000 words\n```\n'"$TEXT"$'\n```'
 
 # 4) build JSON for /v1/responses
 REQUEST=$(jq -n --arg model "$MODEL" --arg txt "$REQUEST_TEXT" '

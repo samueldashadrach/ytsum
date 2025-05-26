@@ -6,3 +6,6 @@ Runs client side. To run server side, obtain cookie from a residential internet 
 
 
 yt-dlp here could be outdated, go get original from the original repo
+
+
+Make sure to connect VPN for videos that are blocked in your country

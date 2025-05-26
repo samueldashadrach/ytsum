@@ -7,4 +7,7 @@
 
 Example
 
-`./ytsum.sh https://www.youtube.com/watch?v=AVE0fXbAvBQ`
+```
+export OPENAI_API_KEY="sk-whatever"
+./ytsum.sh https://www.youtube.com/watch?v=AVE0fXbAvBQ
+```

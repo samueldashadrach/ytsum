@@ -5,7 +5,7 @@
  - yt-dlp here could be outdated, go get original from the original repo
  - Make sure to connect VPN for videos that are blocked in your country
 
-Example
+How to run
 
 ```
 export OPENAI_API_KEY="sk-whatever"

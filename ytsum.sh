@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # Summarise a YouTube video with OpenAI “o3”.
 # usage: DEBUG=1 ./yt-sum.sh  <youtube-url>  [lang]
 

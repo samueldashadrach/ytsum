@@ -9,3 +9,10 @@ yt-dlp here could be outdated, go get original from the original repo
 
 
 Make sure to connect VPN for videos that are blocked in your country
+
+
+
+
+
+
+`./ytsum.sh https://www.youtube.com/watch?v=AVE0fXbAvBQ`
